@@ -1,0 +1,107 @@
+User: who is the president of ukraine?
+Bot: The President of Ukraine is **Volodymyr Zelenskyy**. 
+
+
+User: who is the president of ukraine?
+Bot: Answer:
+
+Volodymyr Zelenskyy 
+
+
+User: who is the president of ukraine?
+Bot: The President of Ukraine is **Volodymyr Zelenskyy**. 
+
+
+User: who is the president of ukraine?
+Bot: The President of Ukraine is **Volodymyr Zelenskyy**. 
+
+
+User: who is the president of ukraine?
+Bot: The President of Ukraine is **Volodymyr Zelenskyy**. 
+
+
+User: who is the president of ukraine?
+Bot: The President of Ukraine is **Volodymyr Zelenskyy**. 
+
+
+User: who is the president of USA?
+Bot: The context you provided is an excerpt from a speech by **President Joe Biden**. 
+
+
+User: who is the president of USA?
+Bot: While the provided text is clearly a message of unity and strength, it doesn't directly state who the President of the USA is. 
+
+To figure out who the President is, you could:
+
+* **Look for clues:**  Does the text's style or specific phrases sound like any particular president you know of?
+* **Check the date:** If you know when this text was spoken or written, you can determine who the President was at that time.
+* **Search online:** A quick search for "current President of the United States" will give you the answer. 
+
+
+User: who is the president of Ukrain?
+Bot: The context you provided states that **Volodymyr Zelenskyy** is the President of Ukraine. 
+
+
+User: who is the president of Ukraine?
+Bot: The President of Ukraine is **Volodymyr Zelenskyy**. 
+
+
+User: how many centuries by virat kohli?
+Bot: Based on the provided text, Virat Kohli has scored **50** centuries in One Day Internationals (ODIs), which is the most by any cricketer. He is also the second fastest to reach 5000, 6000, and 7000 runs in international cricket. 
+
+
+User: how many centuries by virat kohli?
+Bot: I need more context to answer your question. Please specify which format you're interested in (Test matches, One Day Internationals, or Twenty20 Internationals). 
+
+For example:
+
+* "How many centuries has Virat Kohli scored in **ODIs**?" 
+* "How many centuries does Virat Kohli have in **Test cricket**?" 
+ 
+Let me know, and I can provide an accurate answer! 
+
+
+User: how many centuries by virat kohli?
+Bot: I need more information to answer your question. You provided links related to both Sachin Tendulkar and Virat Kohli's cricket statistics, but your question is not specific enough. 
+
+Please tell me:
+
+* **Centuries in which format?**  Are you asking about Test matches, One Day Internationals (ODIs), or Twenty20 Internationals (T20Is)?  
+* **As of when?** Cricket records are constantly changing. Providing a date will help me give you the most accurate answer. 
+
+Once you provide me with this information, I can give you the number of centuries scored by Virat Kohli. 
+
+
+User: how many centuries by virat kohli in T20Is?
+Bot: Based on the provided text, there is no mention of how many centuries Virat Kohli has scored in T20Is. Therefore, I cannot answer your question. 
+
+
+User: what is the total bill amount?
+Bot: The total bill amount is $302.5. 
+
+
+User: what is the total bill amount?
+Bot: The total bill amount is $302.5. 
+
+
+User: who is speaking?
+Bot: The text you provided is an excerpt from President **Joe Biden's 2022 State of the Union Address**. 
+
+
+User: what actions they took to control the covid 19 pandemic?
+Bot: Based on the provided text, here are some actions taken to control the COVID-19 pandemic:
+
+* **Vaccination Efforts:**  The text emphasizes the importance of vaccines and booster shots in providing protection against severe illness. It mentions ongoing efforts to vaccinate more Americans and the anticipation for a vaccine for children under five.
+* **Antiviral Treatments:** The development and distribution of antiviral treatments like the Pfizer pill are highlighted as a way to reduce the severity of COVID-19 and the risk of hospitalization.
+* **Mask Guidelines:** The text refers to the CDC issuing new mask guidelines, suggesting that mask mandates and recommendations were used previously as a mitigation measure.
+* **Monitoring and Adaptation:** The phrase "we will stay on guard" implies ongoing monitoring of the virus and a readiness to adapt strategies as needed, such as in response to new variants. 
+
+**It's important to note:**  This excerpt focuses on a specific moment in the pandemic response and highlights a transition towards "more normal routines."  It does not encompass the full range of actions taken to control the pandemic, which would include:
+
+* **Testing and Contact Tracing**
+* **Lockdowns and Social Distancing Measures**
+* **Economic Relief Programs**
+* **Support for Healthcare Systems**
+* **International Collaboration** 
+
+

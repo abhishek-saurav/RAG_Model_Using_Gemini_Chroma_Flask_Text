@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/Users/abhisheksaurav/Documents/rag using chromadb/RAG_Model_Using_Gemini_Chroma_Flask_Text/venv/bin/python" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from dotenv.__main__ import cli
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(cli())
